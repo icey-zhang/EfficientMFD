@@ -8,6 +8,8 @@ Muti-modal image fusion and object detection play a vital role in autonomous dri
 ![detection_result](https://github.com/icey-zhang/EfficientMFD/assets/54712081/0a2c535a-c554-4e40-8a79-d023ba268cff)
 
 
+### 1. Prepare the dataset M3FD
+
 ```python
 EfficientMFD
 ├── datasets
@@ -23,6 +25,12 @@ EfficientMFD
 │   │   │   ├── 00000.mat
 │   │   │   ├── 00001.mat
 │   │   │   ├── ......
+```
+
+### 2. Begin to train
+<!--
+```python
+python train_net.py
 ```
 
 
