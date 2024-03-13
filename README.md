@@ -8,6 +8,22 @@ Muti-modal image fusion and object detection play a vital role in autonomous dri
 ![detection_result](https://github.com/icey-zhang/EfficientMFD/assets/54712081/0a2c535a-c554-4e40-8a79-d023ba268cff)
 
 
+```python
+EfficientMFD
+├── VOC2007
+│   ├── ImageSets
+│   │   ├── trainval.txt
+│   │   ├── test.txt
+│   ├── Annotations
+│   │   ├── 00000.xml
+│   │   ├── 00001.xml
+│   │   ├── ......
+│   ├── JPEGImages
+│   │   ├── 00000.mat
+│   │   ├── 00001.mat
+│   │   ├── ......
+```
+
 
 The code will come soon，if you have any question, please contact email: jqzhang_2@stu.xidian.edu.cn
 
