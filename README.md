@@ -6,6 +6,5 @@ Muti-modal image fusion and object detection play a vital role in autonomous dri
 
 <p align="center"> <img src="object_visualize_APPENDIX.pdf" width="50%"> </p>
 
-Coming Soon
-
+The code will come soon，if you have any question, please contact email: jqzhang_2@stu.xidian.edu.cn
 
