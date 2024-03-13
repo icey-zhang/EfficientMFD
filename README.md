@@ -28,7 +28,6 @@ EfficientMFD
 ```
 
 ### 2. Begin to train
-<!--
 ```python
 python train_net.py
 ```
