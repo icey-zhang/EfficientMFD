@@ -33,5 +33,5 @@ python train_net.py
 ```
 
 
-The code will come soon，if you have any question, please contact email: jqzhang_2@stu.xidian.edu.cn
+The code will come soon.
 
