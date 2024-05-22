@@ -1,6 +1,6 @@
 # EfficientMFD
 
-**** The code is released at https://github.com/icey-zhang/E2E-MFD.
+## The code is released at https://github.com/icey-zhang/E2E-MFD.
 
 EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection
 
